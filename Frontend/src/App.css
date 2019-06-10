@@ -1,0 +1,21 @@
+.scrollbar {
+  position: relative;
+  height: 50vh;
+  overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.border {
+	border-width: 5px;
+	padding: 10px;
+	margin-top: 50px;
+}
+
+.no-margin {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
